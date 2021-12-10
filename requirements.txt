@@ -1,0 +1,9 @@
+###### Requirements without Version Specifiers ######
+paramiko
+PySimpleGUI
+xlwings
+
+
+
+
+###### Requirements with Version Specifiers ######
